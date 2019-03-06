@@ -9,3 +9,5 @@
 * A Date is clickable if it is within 90 days from today (02/19/2019)
 * Use a modal dialog box to display the Date that was clicked
 * Click the left and right arrows to move month to month
+
+Produced in Chrome browser
