@@ -2,9 +2,6 @@
 
 ![alt text](https://github.com/abuznego23/simple-calendar-js/blob/master/demo.png)
 
-## Demo
-https://liveweave.com/TElEga
-
 ## Requirements
 * Vanilla JS, HTML, CSS
 * Current Date is in gold
